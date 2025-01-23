@@ -211,7 +211,7 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         /> */}
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Using Flutter for crox platform development
+          Using Flutter for cross platform development
         </p>
         <p className="border border-green-500 bg-green-100 dark:bg-green-900/20 text-green-600 text-xs rounded-full px-2 py-0.5 mt-4">
           Android
@@ -298,10 +298,10 @@ const SkeletonFive = () => {
 };
 const items = [
   {
-    title: "AI Content Generation",
+    title: "AI Base products",
     description: (
       <span className="text-sm">
-        Experience the power of AI in generating unique content.
+        Pdf read by promt using Chatgpt api in langchain.py, 
       </span>
     ),
     header: <SkeletonOne />,
@@ -309,10 +309,10 @@ const items = [
     icon: <IconClipboardCopy className="h-4 w-4 text-neutral-500" />,
   },
   {
-    title: "Automated Proofreading",
+    title: "Blaze digital",
     description: (
       <span className="text-sm">
-        Let AI handle the proofreading of your documents.
+        Software Engineer 
       </span>
     ),
     header: <SkeletonTwo />,
@@ -331,10 +331,10 @@ const items = [
     icon: <IconSignature className="h-4 w-4 text-neutral-500" />,
   },
   {
-    title: "Sentiment Analysis",
+    title: "Research on Deepfake detection using deep learning models",
     description: (
       <span className="text-sm">
-        Understand the sentiment of your text with AI analysis.
+        I am trying implemente at application level. 
       </span>
     ),
     header: <SkeletonFour />,
