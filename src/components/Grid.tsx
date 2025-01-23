@@ -342,10 +342,10 @@ const items = [
   },
 
   {
-    title: "Text Summarization",
+    title: "Software Engineer",
     description: (
       <span className="text-sm">
-        Summarize your lengthy documents with AI technology.
+        Find a niche problem, Make it into a business solutions
       </span>
     ),
     header: <SkeletonFive />,
