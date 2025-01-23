@@ -3,6 +3,8 @@ import { CoverDemo } from "@/components/CoverDemo";
 import { AnimatedPinDemo } from "@/components/Experience";
 import { BentoGridThirdDemo } from "@/components/Grid";
 import { BackgroundLinesDemo } from "@/components/Hero";
+import { SpotlightPreview } from "@/components/Spotlight";
+
 // import { FlipWords } from "@/components/ui/flip-words";
 // import { HeroParallaxDemo } from "@/components/ProjectShow";
 // import { BackgroundLines } from "@/components/ui/background-lines";
@@ -32,6 +34,7 @@ export default function Home() {
          {/* <HeroParallaxDemo /> */}
       </div>
       {/* <FlipWords /> */}
+      <SpotlightPreview />
       </main>
      
     </div>

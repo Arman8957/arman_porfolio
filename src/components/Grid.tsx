@@ -342,7 +342,7 @@ const items = [
   },
 
   {
-    title: "Software Engineer",
+    title: "Armanya's ChatBot",
     description: (
       <span className="text-sm">
         Find a niche problem, Make it into a business solutions
