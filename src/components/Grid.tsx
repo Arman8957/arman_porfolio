@@ -196,7 +196,7 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         /> */}
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Just code in Vanilla Javascript
+          Just code in  the Javascript world
         </p>
         <p className="border border-red-500 bg-red-100 dark:bg-red-900/20 text-red-600 text-xs rounded-full px-2 py-0.5 mt-4">
           Delusional
@@ -211,10 +211,10 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         /> */}
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Tailwind CSS is cool, you know
+          Using Flutter for crox platform development
         </p>
         <p className="border border-green-500 bg-green-100 dark:bg-green-900/20 text-green-600 text-xs rounded-full px-2 py-0.5 mt-4">
-          Sensible
+          Android
         </p>
       </motion.div>
       <motion.div
@@ -229,10 +229,10 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         /> */}
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          I love angular, RSC, and Redux.
+          I work with React.js, Nextj.s express.js, and Redux.
         </p>
         <p className="border border-orange-500 bg-orange-100 dark:bg-orange-900/20 text-orange-600 text-xs rounded-full px-2 py-0.5 mt-4">
-          Helpless
+          Web App
         </p>
       </motion.div>
     </motion.div>
@@ -320,10 +320,10 @@ const items = [
     icon: <IconFileBroken className="h-4 w-4 text-neutral-500" />,
   },
   {
-    title: "Contextual Suggestions",
+    title: "B.Sc in Computer Science and Engineering",
     description: (
       <span className="text-sm">
-        Get AI-powered suggestions based on your writing context.
+        East Delta University
       </span>
     ),
     header: <SkeletonThree />,
