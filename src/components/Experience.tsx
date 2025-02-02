@@ -26,7 +26,7 @@ export function AnimatedPinDemo() {
         </div>
       </PinContainer>
       <PinContainer
-        title="/teachertoday.com"
+        title="/teachertoday.org"
         href="https://teachertoday.org"
       >
         <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
