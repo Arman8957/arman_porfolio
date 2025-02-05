@@ -12,7 +12,7 @@ export function ColourfulText({ text }: { text: string }) {
     "rgb(107, 10, 255)",// blue
     "rgb(183, 0, 218)",
     "rgb(218, 0, 171)",
-    "rgb(230, 64, 92)",//red
+    //"rgb(230, 64, 92)",//red
     // "rgb(232, 98, 63)",
     // "rgb(249, 129, 47)",//yellow
   ];
