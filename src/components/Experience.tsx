@@ -17,7 +17,7 @@ export function AnimatedPinDemo() {
            Supervisor Solutions
           </h3>
           <div className="text-base !m-0 !p-0 font-normal">
-            <span className="text-slate-500 ">
+            <span className="text-white ">
             JavaScript, TypeScript, 
             Redux, Node.js, Express.js, Mongodb, Axios
             </span>
@@ -36,7 +36,7 @@ export function AnimatedPinDemo() {
           <div className="text-base !m-0 !p-0 font-normal">
             <span className="text-white">
             JavaScript, TypeScript,Tailwindcss, Material UI,
-            Redux, Node.js, Express.js, No-Sql(Mongodb), SWR, Culinary for storage.
+            Redux, Node.js, Express.js, No-Sql(Mongodb), SWR
             </span>
           </div>
           <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" />
@@ -49,7 +49,7 @@ export function AnimatedPinDemo() {
       >
         <div className="flex basis-full flex-col p-2 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
           <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
-            Teacher Today
+            Library Books Self
           </h3>
           <div className="text-base !m-0 !p-0 font-normal">
             <span className="text-white ">
