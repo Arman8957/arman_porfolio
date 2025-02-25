@@ -300,7 +300,7 @@ const items = [
     title: "AI Base products",
     description: (
       <span className="text-sm">
-        Pdf read by promt using Chatgpt api in langchain.py, 
+        Text read ease understand using promt  Chatgpt LLM api in langchain.py, 
       </span>
     ),
     header: <SkeletonOne />,

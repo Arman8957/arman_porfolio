@@ -36,7 +36,7 @@ export function AnimatedPinDemo() {
                src={supervisor}
                alt="My Image" 
                width={300} 
-               height={300} 
+               height={350} 
               />
             </div>
             {/* <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" /> */}
@@ -62,7 +62,7 @@ export function AnimatedPinDemo() {
                src={teacherToday}
                alt="My Image" 
                width={300} 
-               height={300} 
+               height={350} 
               />
             </div>
             {/* <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" /> */}
@@ -79,7 +79,7 @@ export function AnimatedPinDemo() {
             </h3>
             <div className="text-base !m-0 !p-0 font-normal">
               <span className="text-white ">
-                JavaScript, TypeScript,Tailwindcss, Redix UI Contextapi Node.js,
+                JavaScript, TypeScript,Tailwindcss, Redix UI, Contextapi Node.js,
                 Nest.js, postgreSQL, SWR, Socket.io
               </span>
             </div>
@@ -89,7 +89,7 @@ export function AnimatedPinDemo() {
                src={libraryImg}
                alt="My Image" 
                width={300} 
-               height={200} 
+               height={350} 
               />
             </div>
             {/* <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" /> */}
